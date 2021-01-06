@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:778761501@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210222T170000Z
+DTSTART:20210222T170000Z
+DTEND:20210222T180000Z
+SUMMARY:Bitcoin Design Guide Jam Session #4
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /65
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/65\">https://github.com/BitcoinDesign/Meta/iss
+ ues/65</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/65
+END:VEVENT
+BEGIN:VEVENT
+UID:778760422@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210201T170000Z
+DTSTART:20210201T170000Z
+DTEND:20210201T180000Z
+SUMMARY:Bitcoin Design Guide Jam Session #3
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /64
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/64\">https://github.com/BitcoinDesign/Meta/iss
+ ues/64</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/64
+END:VEVENT
+BEGIN:VEVENT
+UID:778758639@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210217T170000Z
+DTSTART:20210217T170000Z
+DTEND:20210217T180000Z
+SUMMARY:Community Call #11
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /63
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/63\">https://github.com/BitcoinDesign/Meta/iss
+ ues/63</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/63
+END:VEVENT
+BEGIN:VEVENT
+UID:778757022@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210127T170000Z
+DTSTART:20210127T170000Z
+DTEND:20210127T180000Z
+SUMMARY:Community Call #10
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /62
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/62\">https://github.com/BitcoinDesign/Meta/iss
+ ues/62</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/62
+END:VEVENT
+BEGIN:VEVENT
+UID:750632777@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210106T170000Z
+DTSTART:20210106T170000Z
+DTEND:20210106T180000Z
+SUMMARY:Community Call #9
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /56
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/56\">https://github.com/BitcoinDesign/Meta/iss
+ ues/56</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/56
+END:VEVENT
+BEGIN:VEVENT
+UID:750630363@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210111T170000Z
+DTSTART:20210111T170000Z
+DTEND:20210111T180000Z
+SUMMARY:Bitcoin Design Guide Jam Session #2
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /54
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/54\">https://github.com/BitcoinDesign/Meta/iss
+ ues/54</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/54
+END:VEVENT
+BEGIN:VEVENT
+UID:745554156@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210118T160000Z
+DTSTART:20210118T160000Z
+DTEND:20210118T170000Z
+SUMMARY:Design Review Call #8
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /49
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/49\">https://github.com/BitcoinDesign/Meta/iss
+ ues/49</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/49
+END:VEVENT
+BEGIN:VEVENT
+UID:745544128@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20210301T160000Z
+DTSTART:20210301T160000Z
+DTEND:20210301T170000Z
+SUMMARY:Design Review Call #10
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /48
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/48\">https://github.com/BitcoinDesign/Meta/iss
+ ues/48</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/48
+END:VEVENT
+BEGIN:VEVENT
+UID:745538350@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20200209T160000Z
+DTSTART:20200209T160000Z
+DTEND:20200209T170000Z
+SUMMARY:Design Review Call #9
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /47
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/47\">https://github.com/BitcoinDesign/Meta/iss
+ ues/47</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/47
+END:VEVENT
+END:VCALENDAR
